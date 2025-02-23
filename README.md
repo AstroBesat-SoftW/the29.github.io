@@ -1,4 +1,4 @@
-# [the29.github.io](https://the29game.github.io/)
+# https://the29game.github.io/
 
 [🇹🇷 Türkçe](#turkish-version) | [🇬🇧 English](#english-version)  
 
